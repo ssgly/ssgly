@@ -1,0 +1,5 @@
+{{ $jsHome := resources.Get "js/home.js" | resources.Minify | resources.Fingerprint "sha512" }}
+<div id="background">
+  {{ partial "home/background.html" . }}
+</div>
+<script defer type="text/javascript" src="{{ $jsHome.RelPermalink }}" integrity="{{ $jsHome.Data.Integrity }}"></script>

@@ -1,0 +1,18 @@
+languageCode = "ko"
+languageName = "Korean"
+weight = 1
+title = "SSgly"
+
+[params]
+  displayName = "한국어"
+  isoCode = "ko"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/blowfish_logo_transparent.png"
+  description = "Lovely friends, smart life"
+
+[params.author]
+  name = "SSgly Friends"
+  image = "img/blowfish_logo.png"
+  headline = "귀엽고 유쾌한 친구들과 함께하는 감성 놀이터"
+  links = []
