@@ -8,11 +8,11 @@ title = "SSgly"
   isoCode = "ko"
   rtl = false
   dateFormat = "2006-01-02"
-  logo = "img/blowfish_logo_transparent.png"
+  logo = "img/ssgly-golf-logo-transparent.png"
   description = "Lovely friends, smart life"
 
 [params.author]
   name = "SSgly Friends"
-  image = "img/blowfish_logo.png"
+  image = "img/ssgly-golf-logo6.png"
   headline = "귀엽고 유쾌한 친구들과 함께하는 감성 놀이터"
   links = []
